@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bot related projects(duno if i can help tho)
 - 📫 How to reach me: Telegram @MInajeJhvfFGwULAziSHffEvHGMyzJPC 
 - 😄 Pronouns: what is this 
-- ⚡ Fun fact: Tab should consists 4 spaces
+- ⚡ Fun fact: Tab should consist 4 spaces
 
 <!---
 FlandreEnjoyer/FlandreEnjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
